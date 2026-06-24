@@ -204,12 +204,11 @@ body {
 img {
   width: 100%;
   max-height: 40vh;
-  object-fit: cover;
-  object-position: center;
+  object-fit: contain;
+  object-position: left top;
   display: block;
-  flex-shrink: 1;
-  height: 220px;
-  aspect-ratio: unset;
+  flex-shrink: 0;
+  height: auto;
 }
   }
 }
