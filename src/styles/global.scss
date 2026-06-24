@@ -200,9 +200,9 @@ body {
 
     img {
       height: 400px;
-      max-height: 22vh;
+      max-height: 50vh;
       width: 100%;
-      object-fit: contain;
+      object-fit: scale;
       filter: none;
     }
   }
@@ -821,7 +821,7 @@ html {
 
   img {
     width: 100%;
-    filter: grayscale(1);
+    filter: none;
     margin: 1.6em 0;
   }
 
