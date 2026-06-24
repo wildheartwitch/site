@@ -7,10 +7,6 @@ interface MenuItem {
   alt?: string;
 }
 
-{items.map(item => (
-  <a href={item.href}>{item.label}</a>
-))}
-
 interface Props {
   items?: MenuItem[];
   mention?: string;
