@@ -1,6 +1,6 @@
 ---
 title: 'Sharing The Widespread Acclaim About Motivation'
-bigTitle: 'realizo'
+bigTitle: 'pesquiso'
 emphasis: 'Widespread'
 headline: 'Sharing The {emphasis} Acclaim About Motivation'
 excerpt: "Blonde received widespread acclaim, with critics praising Ocean's introspective lyrics and the album's unconventional structure."
