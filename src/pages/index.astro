@@ -17,7 +17,7 @@ posts.sort((a, b) => +b.data.date - +a.data.date);
   <div class="blog">
     <Menu />
     <StickyHeader
-      title="Self"
+      title="eu"
       pinnedLabel="salvador, bahia"
       pageNumber={pinned?.data.pageNumber ?? ' ⏾ '}
     />
@@ -27,7 +27,6 @@ posts.sort((a, b) => +b.data.date - +a.data.date);
         posts.map((post) => (
           <FeaturedArticle
             bigTitle={post.data.bigTitle}
-            date={post.data.date}
             emphasis={post.data.emphasis}
             headline={post.data.headline}
             cover={post.data.cover}
