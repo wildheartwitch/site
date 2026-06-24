@@ -6,9 +6,23 @@ const items = (await getCollection('work')).sort((a, b) => a.data.order - b.data
 ---
 
 <PageLayout
-  title="Selected Work"
-  eyebrow="Portfolio"
-  description="A sample of issues, collaborations, and side projects from the studio."
+  title="Lara Carvalho"
+  eyebrow="sobre"
+  description="Lara Carvalho é soteropolitana, roteirista, diretora e pesquisadora de cinema e audiovisual. Atua como professora de Cinema e Audiovisual na Faculdade de Comunicação da Universidade Federal da Bahia (UFBA), onde também se graduou em Produção Cultural. 
+
+É doutoranda na linha de Culturas da imagem e do Som e mestre em Comunicação e Cultura Contemporâneas, ambas pelo Póscom/UFBA. Integra o grupo de pesquisa (An)arqueologias do sensível, desenvolvendo investigações sobre cinemas feitos por mulheres, cineastas latino-americanas e questões do corpo, do sensível e da ritualidade no audiovisual.
+
+Com mais de uma década de atuação no audiovisual, transita entre criação artística, ensino, pesquisa e curadoria.
+
+Foi Coordenadora Audiovisual da 3ª Bienal da Bahia (2014), onde roteirizou e dirigiu o documentário 3ª Bienal da Bahia e a websérie MAM Flamboyant. Foi produtora audiovisual colaboradora do MAM-BA e do Goethe-Institut Salvador. 
+
+Assinou o roteiro e a direção de Lunáticas (podcast documental) e Meridianos (podcast híbrido com apoio do Instituto Serrapilheira) e integrou a equipe de roteiro das séries Malika, Fórmula Dreams e Damiano. Criou a série Escorço, que foi finalista do Sundance Episodic Lab (2020) e co-criou a série de animação Hyperkart.  Fez parte da sala de roteiro do projeto A Morte e o Renascimento de Lampião e Maria Bonita, que começou como longa de ficção e está em processo de adaptação para HQ. Desenvolveu o longa de ficção Quitéria e o podcast O Culto.
+
+É vencedora do Concurso Narratologia 2023 e semifinalista do Guiões (2021 e 2022).
+
+Também atua como docente em cursos livres e oficinas, como Linguagem Cinematográfica, Narrativas Climáticas, História da Mulher no Cinema e Narrativas Televisivas. Publicou os livros digitais Uma (Breve) História das Mulheres no Cinema (2022), pelo Prêmio Delmiro Gouveia, e Cinema: substantivo feminino (2024), que mapeia uma constelação fílmica latino-americana, com filmes dirigidos por mulheres.
+
+Atualmente, está em fase de distribuição do documentário infantojuvenil Menarca e do curta de ficção 56 Dias; em produção do curta de animação Mar Subversivo e em fase de desenvolvimento do seu primeiro longa de ficção, Até o Amanhecer. Também integra os projetos Mapa Cultural de Itaparica, Campos Rupestres e FLIRO – Festa de Literatura e Roteiro."
 >
   {
     items.length === 0 ? (
