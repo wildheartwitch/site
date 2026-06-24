@@ -13,7 +13,7 @@ isso significa que temos uma capacidade para a magia.
 não é porque não podemos vê-la que ela não existe.'
 author: ''
 readTime: ''
-date: 2020-08-01
+date: 2026-06-24
 featured: true
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=contain&q=80'
 tags: ['o que faço', 'serviços']
