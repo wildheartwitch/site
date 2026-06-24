@@ -709,9 +709,9 @@ html {
 
   img {
     width: 100%;
-    height: clamp(220px, 40vh, 420px);
-    object-fit: cover;
-    filter: grayscale(1);
+    height: clamp(420px, 40vh, 420px);
+    object-fit: contain;
+    filter: none;
     display: block;
   }
 }
