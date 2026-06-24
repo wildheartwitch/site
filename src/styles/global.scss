@@ -19,6 +19,14 @@ img {
  flex-shrink: 0;
 }
 
+.prose img,
+.page-hero img,
+.blog-article img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 a {
   color: inherit;
 }
