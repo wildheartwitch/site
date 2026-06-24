@@ -198,13 +198,13 @@ body {
   &-article {
     padding: 0 20px;
 
-    img {
-      height: 451px;
-      max-height: 40vh;
-      width: auto;
-      object-fit: scale;
-      filter: none;
-    }
+   img {
+  width: auto;
+  max-width: 100%;
+  max-height: 40vh;
+  height: auto;
+  display: block;
+}
   }
 }
 
@@ -707,13 +707,15 @@ html {
 .page-hero {
   margin: 0 0 clamp(32px, 5vw, 56px);
 
-  img {
-    width: auto;
-    height: clamp(451px, 40vh, 351px);
-    object-fit: scale;
-    filter: none;
-    display: block;
-  }
+img {
+  max-width: 100%;
+  max-height: 40vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+  
 }
 
 .page-head {
