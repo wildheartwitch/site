@@ -47,30 +47,31 @@ const {
 </button>
 
 <div class="blog-part is-menu" id="primary-menu" data-menu>
-  {
-    {items.map(item) => (
-  <a href={item.href} class="blog-menu">
-    {item.image ? (
-      <img src={item.image} alt={item.alt ? item.alt : item.label} />
-    ) : (
-      item.label
-    )}
+ {
+  items.map((item) => (
+    <a href={item.href} class="blog-menu">
+      {item.image ? (
+        <img src={item.image} alt={item.alt ? item.alt : item.label} />
+      ) : (
+        item.label
+      )}
 
-    {item.external && (
-      <svg
-        fill="none"
-        stroke="currentColor"
-        stroke-width=".7"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        class="feather feather-arrow-up-right"
-        viewBox="0 0 24 24"
-      >
-        <path d="M7 17L17 7M7 7h10v10" />
-      </svg>
-    )}
-  </a>
-))}
+      {item.external && (
+        <svg
+          fill="none"
+          stroke="currentColor"
+          stroke-width=".7"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="feather feather-arrow-up-right"
+          viewBox="0 0 24 24"
+        >
+          <path d="M7 17L17 7M7 7h10v10" />
+        </svg>
+      )}
+    </a>
+  ))
+}
   <a href={mentionHref} class="blog-menu mention">{mention}</a>
   <a href={subscribeHref} class="blog-menu subscribe">{subscribeLabel}</a>
 </div>
