@@ -1,15 +1,12 @@
 ---
-title: 'On Writing Letters Again'
+title: 'escrevo roteiros, literatura e códigos'
 bigTitle: 'escrevo'
-emphasis: 'Writing'
-headline: 'On {emphasis} Letters Again'
-excerpt: 'The slow correspondence is back, and with it a different kind of attention to the people we love.'
-author: 'Tom Hiddleston'
-readTime: '5 Min Read'
-date: 2022-03-02
+emphasis: 'escrevo'
+headline: '{emphasis} roteiros, literatura e códigos'
+excerpt: 'contar histórias contém um pouco de magia em seu processo, assim como a magia é uma forma de contar histórias. palavras são como feitiços. o que me convida tanto à magia quanto aos processos artísticos é a possibilidade de olhar para dentro ou olhar para o que nos cerca e enxergar o que já existiu, o que existe, o que poderia existir. criar histórias é olhar para cima, ter o céu como limite, constelar as palavras como estrelas e ler um mundo imaginado nessa via láctea de possibilidades. colocado assim, não soa como um feitiço? um trabalho um pouco mágico? a capacidade de contar histórias é inerente aos seres humanos. gosto de pensar que isso significa que temos uma capacidade para a magia. não é porque não podemos vê-la que ela não existe.'
 featured: true
-cover: 'https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1600&q=70'
-tags: ['love', 'writing']
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=scale&w=400&q=80'
+tags: ['o que faço', 'serviços']
 ---
 
 A letter is a slow thing. By the time it arrives the writer has already
