@@ -27,7 +27,6 @@ const parts = emphasis ? headline.split('{emphasis}') : [headline];
 <div class="blog-header">
   <div class="blog-article header-article">
     <div class="blog-big__title">{bigTitle}</div>
-    <div class="blog-menu small-title date">{formatted}</div>
   </div>
   <div class="blog-article">
     <img src={cover} alt={bigTitle} />
@@ -45,8 +44,6 @@ const parts = emphasis ? headline.split('{emphasis}') : [headline];
       }
     </h2>
     <div class="blog-detail">
-      <span>By {author}</span>
-      <span>{readTime}</span>
     </div>
     <p>{excerpt}</p>
     <a href={href}>
@@ -63,7 +60,7 @@ const parts = emphasis ? headline.split('{emphasis}') : [headline];
         <path d="M15 10l5 5-5 5"></path>
         <path d="M4 4v7a4 4 0 004 4h12"></path>
       </svg>
-      See More
+      saiba mais
     </a>
   </div>
 </div>
