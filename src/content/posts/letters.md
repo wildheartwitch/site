@@ -1,6 +1,6 @@
 ---
 title: 'On Writing Letters Again'
-bigTitle: 'Letters'
+bigTitle: 'pesquiso'
 emphasis: 'Writing'
 headline: 'On {emphasis} Letters Again'
 excerpt: 'The slow correspondence is back, and with it a different kind of attention to the people we love.'
