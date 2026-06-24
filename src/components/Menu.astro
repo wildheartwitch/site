@@ -5,18 +5,6 @@ interface MenuItem {
   external?: boolean;
 }
 
-interface MenuItem {
-  item.image ? (
-    <img
-      src={item.image}
-      alt={item.alt}
-      class="site-logo"
-    />
-  ) : (
-    item.label
-  )
-}
-
 interface Props {
   items?: MenuItem[];
   mention?: string;
