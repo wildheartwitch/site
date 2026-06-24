@@ -297,9 +297,18 @@ body {
   }
 }
 
+.blog-header-container {
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  scroll-snap-type: y mandatory;
+  border-right: 1px solid $border-color;
+
   @media screen and (max-width: 768px) {
     border-right: 0;
-}
+  }
 
   & > * {
     flex-shrink: 0;
@@ -307,11 +316,11 @@ body {
     scroll-snap-align: start;
   }
 
-.blog-article img {
-  width: auto;
-  max-width: 100%;
-  max-height: 40vh;
-  display: block;
+  .blog-article:not(.header-article) {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
 }
   
   .blog-article:not(.header-article) {
