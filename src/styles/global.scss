@@ -710,7 +710,7 @@ html {
   img {
     width: 100%;
     height: clamp(420px, 40vh, 420px);
-    object-fit: contain;
+    object-fit: scale;
     filter: none;
     display: block;
   }
