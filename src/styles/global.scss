@@ -820,9 +820,11 @@ html {
   }
 
   img {
-    width: 100%;
-    filter: none;
-    margin: 1.6em 0;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.6em 0;
+  filter: none;
   }
 
   ul,
