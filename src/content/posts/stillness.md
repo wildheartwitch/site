@@ -1,6 +1,6 @@
 ---
 title: 'Notes On Stillness'
-bigTitle: 'ensino'
+bigTitle: 'realizo'
 emphasis: 'Notes'
 headline: '{emphasis} On Stillness'
 excerpt: 'Short field reports from the practice of doing nothing, deliberately.'
