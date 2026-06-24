@@ -9,15 +9,13 @@ cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=
 tags: ['o que faço', 'serviços']
 ---
 
-A letter is a slow thing. By the time it arrives the writer has already
-moved past it. That gap is part of what the form gives back.
-
-## The slowness as gift
-
-The text message presumes immediacy. The letter presumes that you and the
-person you love will both still be there in three days. It is a small
-ceremony of expectation.
-
-## Practice
-
-Buy stamps. Pick a person. Write the boring details. Send it.
+contar histórias contém um pouco de magia em seu processo, assim como a 
+magia é uma forma de contar histórias. palavras são como feitiços. o que 
+me convida tanto à magia quanto aos processos artísticos é a possibilidade 
+de olhar para dentro ou olhar para o que nos cerca e enxergar o que já 
+existiu, o que existe, o que poderia existir. criar histórias é olhar para 
+cima, ter o céu como limite, constelar as palavras como estrelas e ler um 
+mundo imaginado nessa via láctea de possibilidades. colocado assim, não soa 
+como um feitiço? um trabalho um pouco mágico? a capacidade de contar histórias 
+é inerente aos seres humanos. gosto de pensar que isso significa que temos uma 
+capacidade para a magia. não é porque não podemos vê-la que ela não existe.
