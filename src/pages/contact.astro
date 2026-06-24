@@ -3,31 +3,29 @@ import PageLayout from '../layouts/PageLayout.astro';
 ---
 
 <PageLayout
-  title="Contact"
-  eyebrow="Say hello"
-  description="Letters, pitches, and corrections all welcome. We read everything."
+  title="contato"
+  eyebrow="quer falar comigo?"
+  description="propostas de trabalhos e parcerias, convites para eventos, sugestões e ideias são sempre bem-vindos. respondo assim que puder :)"
 >
   <div class="prose">
     <p>
-      Email us at <a href="mailto:hello@example.com">hello@example.com</a>, or use the form below.
-      Replace the form action with your own endpoint (Formspree, Netlify Forms, etc.) before
-      deploying.
+      mande um email para <a href="mailto:larafreitasdecarvalho@gmail.com">larafreitasdecarvalho@gmail.com</a>, ou use o formulário abaixo.
     </p>
   </div>
 
-  <form class="contact-form" action="mailto:hello@example.com" method="post" enctype="text/plain">
+  <form class="contact-form" action="mailto:larafreitasdecarvalho@gmail.com" method="post" enctype="text/plain">
     <label>
-      Name
+      nome
       <input type="text" name="name" required />
     </label>
     <label>
-      Email
+      email
       <input type="email" name="email" required />
     </label>
     <label>
-      Message
+      escreva sua mensagem aqui
       <textarea name="message" required></textarea>
     </label>
-    <button type="submit">Send</button>
+    <button type="submit">enviar</button>
   </form>
 </PageLayout>
