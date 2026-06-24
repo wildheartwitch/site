@@ -199,8 +199,8 @@ body {
     padding: 0 20px;
 
     img {
-      height: 400px;
-      max-height: 50vh;
+      height: 451px;
+      max-height: 40vh;
       width: 100%;
       object-fit: scale;
       filter: none;
@@ -709,7 +709,7 @@ html {
 
   img {
     width: 100%;
-    height: clamp(420px, 60vh, 320px);
+    height: clamp(451px, 40vh, 351px);
     object-fit: scale;
     filter: none;
     display: block;
