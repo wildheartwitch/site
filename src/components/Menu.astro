@@ -3,7 +3,13 @@ interface MenuItem {
   label: string;
   href: string;
   external?: boolean;
+  image?: string;
+  alt?: string;
 }
+
+{items.map(item => (
+  <a href={item.href}>{item.label}</a>
+))}
 
 interface Props {
   items?: MenuItem[];
@@ -15,7 +21,7 @@ interface Props {
 
 const {
   items = [
-    { 
+    { label: 'Lara Carvalho',
       image: '/LaraCarvalho_logocomimg.png',
       alt: 'Lara Carvalho' 
     },
