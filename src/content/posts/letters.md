@@ -11,6 +11,9 @@ feitiço? um trabalho um pouco mágico? a capacidade de contar
 histórias é inerente aos seres humanos. gosto de pensar que 
 isso significa que temos uma capacidade para a magia. 
 não é porque não podemos vê-la que ela não existe.'
+author: ''
+readTime: ''
+date: 
 featured: true
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=scale&w=400&q=80'
 tags: ['o que faço', 'serviços']
