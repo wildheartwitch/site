@@ -15,7 +15,7 @@ author: ''
 readTime: ''
 date: 2020-08-01
 featured: true
-cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=contain&w=400&q=80'
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=contain&q=80'
 tags: ['o que faço', 'serviços']
 ---
 
