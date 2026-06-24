@@ -13,9 +13,9 @@ isso significa que temos uma capacidade para a magia.
 não é porque não podemos vê-la que ela não existe.'
 author: ''
 readTime: ''
-date: 2021-08-01
+date: 2020-08-01
 featured: true
-cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=scale'
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=contain&w=400&q=80'
 tags: ['o que faço', 'serviços']
 ---
 
