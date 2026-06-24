@@ -199,11 +199,11 @@ body {
     padding: 0 20px;
 
     img {
-      height: 260px;
+      height: 400px;
       max-height: 22vh;
       width: 100%;
-      object-fit: cover;
-      filter: grayscale(1);
+      object-fit: contain;
+      filter: none;
     }
   }
 }
