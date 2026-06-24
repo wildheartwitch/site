@@ -1,8 +1,8 @@
 ---
-title: 'escrevo roteiros, literatura e códigos'
+title: 'escrevo roteiros, literatura e feitiços'
 bigTitle: 'escrevo'
 emphasis: 'escrevo'
-headline: '{emphasis} roteiros, literatura e códigos'
+headline: '{emphasis} roteiros, literatura e feitiços'
 excerpt: 'palavras são como feitiços. criar histórias é 
 olhar para cima, ter o céu como limite, constelar as 
 palavras como estrelas e ler um mundo imaginado nessa via 
