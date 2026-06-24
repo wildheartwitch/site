@@ -51,7 +51,7 @@ const {
     {items.map((item) => (
   <a href={item.href} class="blog-menu">
     {item.image ? (
-      <img src={item.image} alt={item.alt ?? item.label} />
+      <img src={item.image} alt={item.alt ? item.alt : item.label} />
     ) : (
       item.label
     )}
