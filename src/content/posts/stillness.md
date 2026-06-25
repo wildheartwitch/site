@@ -11,7 +11,7 @@ author: ''
 readTime: ''
 date: 2026-06-23
 featured: true
-cover: 'https://github.com/wildheartwitch/site/blob/main/public/cadeira%20diretora.png'
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/cadeira%20diretora.png?raw=true?auto=format&fit=contain&q=80'
 tags: ['o que faço', 'serviços']
 ---
 
