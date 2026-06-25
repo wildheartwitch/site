@@ -3,14 +3,12 @@ title: 'escrevo roteiros, literatura e feitiços'
 bigTitle: 'escrevo'
 emphasis: 'escrevo'
 headline: '{emphasis} roteiros, literatura e feitiços'
-excerpt: 'palavras são como feitiços. criar histórias é 
-olhar para cima, ter o céu como limite, constelar as 
-palavras como estrelas e ler um mundo imaginado nessa via 
-láctea de possibilidades. colocado assim, não soa como um 
-feitiço? um trabalho um pouco mágico? a capacidade de contar 
-histórias é inerente aos seres humanos. gosto de pensar que 
-isso significa que temos uma capacidade para a magia. 
-não é porque não podemos vê-la que ela não existe.'
+excerpt: 'palavras podem ser consteladas como estrelas. 
+escrevo como quem monta um arquivo vivo – entre páginas
+de roteiros, ensaios, literatura, rituais e códigos.
+trabalho a escrita como forma de pensamento, onde a 
+narrativa pode estar entre ficção, pesquisa e fabulação 
+crítica. a escrita é um modo de ver.'
 author: ''
 readTime: ''
 date: 2026-06-24
