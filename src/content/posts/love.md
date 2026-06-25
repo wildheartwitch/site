@@ -1,8 +1,8 @@
 ---
-title: 'ensino cinema e audiovisual entre teoria e prática'
+title: 'ensino audiovisual entre teoria e prática'
 bigTitle: 'ensino'
 emphasis: 'ensino'
-headline: '{emphasis} cinema e audiovisual entre teoria e prática'
+headline: '{emphasis} audiovisual entre teoria e prática'
 excerpt: 'a sala de aula é um espaço de montagem. reúno referências, 
 imagens, conceitos e experiências para construir percursos compartilhados 
 de aprendizagem. ensino como prática de escuta, investigação e criação, 
