@@ -1,6 +1,6 @@
 ---
 title: 'fuxicos'
-subtitle: "Blonde received widespread acclaim, with critics praising Ocean's introspective lyrics and the album's"
+subtitle: "podcast em formato de gabinete de curiosidades"
 date: 2021-06-12
 order: 1
 ---
