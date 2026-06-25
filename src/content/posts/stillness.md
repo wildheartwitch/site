@@ -2,8 +2,8 @@
 title: 'realizo obras audiovisuais e experimentos artísticos'
 bigTitle: 'realizo'
 emphasis: 'realizo'
-headline: '{emphasis} obras audiovisuais e experimentos artísticos'
-excerpt: 'trabalho com o cinema como prática sensível – entre corpo, tempo e rito.
+headline: '{emphasis} obras audiovisuais, projetos culturais e experimentos artísticos'
+excerpt: 'trabalho com o audiovisual como prática sensível – entre corpo, tempo e rito.
 me interesso por obras que tensionam documento e fabulação, arquivo e presença.
 as imagens se constroem como zonas de passagem, onde o real é continuamente 
 atravessado por outras formas de percepção.'
