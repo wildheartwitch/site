@@ -1,15 +1,18 @@
 ---
-title: 'How 2020 Changed Understanding Of Mental Health'
+title: 'pesquiso audiovisual, cultura visual, o sensível e o ritual'
 bigTitle: 'pesquiso'
-emphasis: 'Understanding'
-headline: 'How 2020 Changed {emphasis} Of Mental Health'
-excerpt: 'Reflections on the shifts of 2020 and how a year of disruption rewired our collective understanding of attention.'
-author: 'Scarlett Witch'
-readTime: '7 Min Read'
-date: 2021-08-21
-cover: 'https://images.unsplash.com/photo-1616248249518-b16013cd4e42?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkzfHxibGFjayUyMGFuZCUyMHdoaXRlfGVufDB8MHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=70'
+emphasis: 'pesquiso'
+headline: '{emphasis} audiovisual, cultura visual, o sensível e o ritual'
+excerpt: 'investigo imagens, arquivos, gestos e temporalidades. trabalho 
+com o sensível, a ritualidade, o espectral e o imaginário. observo o mundo 
+de forma interdisciplinar e me fascino pelas narrativas de mulheres, ruínas, 
+assombrações, memórias e outras formas de permanência.'
+author: ''
+readTime: ''
+date: 2026-05-22
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/PESQUISA-TEXTO%20E%20LIVROS.png?raw=true?auto=format&fit=contain&q=80'
 featured: true
-tags: ['mental-health', 'attention', 'control']
+tags: ['o que faço', 'serviços']
 ---
 
 The word "control" used to belong to a small vocabulary of work: project
