@@ -2,7 +2,7 @@
 title: 'pesquiso audiovisual, cultura visual e o sensível'
 bigTitle: 'pesquiso'
 emphasis: 'pesquiso'
-headline: '{emphasis} audiovisual, cultura visual, o sensível e o ritual'
+headline: '{emphasis} audiovisual, cultura visual e o sensível'
 excerpt: 'investigo imagens, arquivos, gestos e temporalidades. trabalho 
 com o sensível, a ritualidade, o espectral e o imaginário. observo o mundo 
 de forma interdisciplinar e me fascino pelas narrativas de mulheres, ruínas, 
