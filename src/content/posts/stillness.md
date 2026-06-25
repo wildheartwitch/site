@@ -1,12 +1,13 @@
 ---
-title: 'realizo obras audiovisuais e experimentos artísticos'
+title: 'realizo obras audiovisuais, projetos culturais e experimentos artísticos'
 bigTitle: 'realizo'
 emphasis: 'realizo'
 headline: '{emphasis} obras audiovisuais, projetos culturais e experimentos artísticos'
-excerpt: 'trabalho com o audiovisual como prática sensível – entre corpo, tempo e rito.
-me interesso por obras que tensionam documento e fabulação, arquivo e presença.
-as imagens se constroem como zonas de passagem, onde o real é continuamente 
-atravessado por outras formas de percepção.'
+excerpt: 'trabalho com o audiovisual como prática sensível, mas também 
+com imagens, objetos e gestos que se desdobram em diferentes suportes. 
+fotografia, instalação, cerâmica e experimentações têxteis integram uma 
+pesquisa contínua sobre corpo, tempo e rito. minhas obras se constroem 
+como zonas de passagem, onde memória, imaginação e matéria se encontram.'
 author: ''
 readTime: ''
 date: 2026-06-23
