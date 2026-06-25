@@ -1,6 +1,6 @@
 ---
 title: 'mapa cultural de itaparica'
-subtitle: 'The interior concept was conceived of by Dutch architect Studio Anne Holtrop who cleverly emulated'
+subtitle: 'projeto de cartografia de agentes e instituições culturais da ilha de itaparica'
 date: 2021-06-12
 order: 6
 ---
