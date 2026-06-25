@@ -9,7 +9,7 @@ de aprendizagem. ensino como prática de escuta, investigação e criação,
 estimulando novas formas de olhar, pensar e narrar o mundo.'
 author: ''
 readTime: ''
-date: 2026-06-21
+date: 2026-06-20
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/CONSULTORIA%20DE%20ROTEIRO-LAMPADA.png?raw=true?raw=true?auto=format&fit=contain&q=80'
 featured: true
 tags: ['o que faço', 'serviços']
