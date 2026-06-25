@@ -1,8 +1,8 @@
 ---
-title: 'conjuro imagens, projetos e processos criativos'
+title: 'conjuro projetos e processos criativos'
 bigTitle: 'conjuro'
 emphasis: 'conjuro'
-headline: '{emphasis} imagens, projetos e processos criativos'
+headline: '{emphasis} projetos e processos criativos'
 excerpt: "atuo na criação de redes e percursos para pessoas 
 e projetos criativos. entre comunicação, organização e consultorias, 
 aproximo ideias, recursos e colaboradores. me interessa como uma prática 
