@@ -10,7 +10,7 @@ o que permite que uma prática exista no tempo: sua estrutura, sua circulação
 e suas condições de continuidade. conjurar é também compor condições para que algo se realize."
 author: ''
 readTime: ''
-date: 2026-06-20
+date: 2026-06-18
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/organizac%CC%A7a%CC%83o%20pessoas%20criativas.png?raw=true?raw=true?auto=format&fit=contain&q=80'
 featured: true
 pageNumber: ''
