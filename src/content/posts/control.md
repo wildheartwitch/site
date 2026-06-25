@@ -9,7 +9,7 @@ de forma interdisciplinar e me fascino pelas narrativas de mulheres, ruínas,
 assombrações, memórias e outras formas de permanência.'
 author: ''
 readTime: ''
-date: 2026-05-22
+date: 2026-06-22
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/PESQUISA-TEXTO%20E%20LIVROS.png?raw=true?auto=format&fit=contain&q=80'
 featured: true
 tags: ['o que faço', 'serviços']
