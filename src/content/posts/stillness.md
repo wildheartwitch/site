@@ -9,7 +9,7 @@ experimentações têxteis; pesquisa contínua sobre corpo, tempo e rito.
 minhas obras são onde memória, imaginação e matéria se encontram.'
 author: ''
 readTime: ''
-date: 
+date: 2026-06-23
 featured: true
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/cadeira%20diretora.png?raw=true?auto=format&fit=contain&q=80'
 tags: ['o que faço', 'serviços']
