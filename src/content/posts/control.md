@@ -1,5 +1,5 @@
 ---
-title: 'pesquiso audiovisual, cultura visual, o sensível e o ritual'
+title: 'pesquiso audiovisual, cultura visual e o sensível'
 bigTitle: 'pesquiso'
 emphasis: 'pesquiso'
 headline: '{emphasis} audiovisual, cultura visual, o sensível e o ritual'
