@@ -10,7 +10,7 @@ transitam entre ficção, pesquisa e fabulação crítica. a escrita é uma
 prática de relação: um modo de aproximar fragmentos e fazer emergir novos sentidos.'
 author: ''
 readTime: ''
-date: 
+date: 2026-06-24
 featured: true
 cover: 'https://github.com/wildheartwitch/site/blob/main/public/ROTEIRO.png?raw=true?auto=format&fit=contain&q=80'
 tags: ['o que faço', 'serviços']
