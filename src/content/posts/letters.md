@@ -3,12 +3,11 @@ title: 'escrevo roteiros, literatura e feitiços'
 bigTitle: 'escrevo'
 emphasis: 'escrevo'
 headline: '{emphasis} roteiros, literatura e feitiços'
-excerpt: 'palavras podem ser consteladas como estrelas. 
-escrevo como quem monta um arquivo vivo – entre páginas
-de roteiros, ensaios, literatura, rituais e códigos.
-trabalho a escrita como forma de pensamento, onde a 
-narrativa pode estar entre ficção, pesquisa e fabulação 
-crítica. a escrita é um modo de ver.'
+excerpt: 'palavras podem ser consteladas como estrelas. escrevo entre 
+roteiros, ensaios, literatura, rituais e códigos, compondo mapas 
+provisórios para navegar imagens, memórias e ideias. minhas narrativas 
+transitam entre ficção, pesquisa e fabulação crítica. a escrita é uma 
+prática de relação: um modo de aproximar fragmentos e fazer emergir novos sentidos.'
 author: ''
 readTime: ''
 date: 2026-06-24
