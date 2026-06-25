@@ -3,11 +3,11 @@ title: 'conjuro imagens, projetos e processos criativos'
 bigTitle: 'conjuro'
 emphasis: 'conjuro'
 headline: '{emphasis} imagens, projetos e processos criativos'
-excerpt: "atuo na criação de redes, percursos e estratégias para pessoas 
+excerpt: "atuo na criação de redes e percursos para pessoas 
 e projetos criativos. entre comunicação, organização e consultorias, 
-trabalho para aproximar ideias, recursos e colaboradores. me interessa 
-o que permite que uma prática exista no tempo: sua estrutura, sua circulação 
-e suas condições de continuidade. conjurar é também compor condições para que algo se realize."
+aproximo ideias, recursos e colaboradores. me interessa como uma prática 
+existe no tempo: sua estrutura, sua circulação e suas condições de continuidade. 
+conjurar é criar condições para que algo se realize."
 author: ''
 readTime: ''
 date: 2026-06-18
