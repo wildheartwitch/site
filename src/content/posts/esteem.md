@@ -1,16 +1,20 @@
 ---
-title: 'Sharing The Widespread Acclaim About Motivation'
+title: 'conjuro imagens, projetos e processos criativos'
 bigTitle: 'conjuro'
-emphasis: 'Widespread'
-headline: 'Sharing The {emphasis} Acclaim About Motivation'
-excerpt: "Blonde received widespread acclaim, with critics praising Ocean's introspective lyrics and the album's unconventional structure."
-author: 'Richard Carnation'
-readTime: '5 Min Read'
-date: 2021-06-12
-cover: 'https://images.unsplash.com/photo-1496629062893-b0f566065d44?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1600&q=70'
+emphasis: 'conjuro'
+headline: '{emphasis} imagens, projetos e processos criativos'
+excerpt: "atuo na criação de redes, percursos e estratégias para pessoas 
+e projetos criativos. entre comunicação, organização e consultorias, 
+trabalho para aproximar ideias, recursos e colaboradores. me interessa 
+o que permite que uma prática exista no tempo: sua estrutura, sua circulação 
+e suas condições de continuidade. conjurar é também compor condições para que algo se realize."
+author: ''
+readTime: ''
+date: 2026-06-20
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/organizac%CC%A7a%CC%83o%20pessoas%20criativas.png?raw=true?raw=true?auto=format&fit=contain&q=80'
 featured: true
-pageNumber: 'NO. 01'
-tags: ['motivation', 'music', 'identity']
+pageNumber: ''
+tags: ['o que faço', 'serviços']
 ---
 
 Blonde received widespread acclaim, with critics praising Ocean's introspective
