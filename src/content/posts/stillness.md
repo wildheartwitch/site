@@ -1,15 +1,18 @@
 ---
-title: 'Notes On Stillness'
+title: 'realizo obras audiovisuais e experimentos artísticos'
 bigTitle: 'realizo'
-emphasis: 'Notes'
-headline: '{emphasis} On Stillness'
-excerpt: 'Short field reports from the practice of doing nothing, deliberately.'
-author: 'Richard Carnation'
-readTime: '4 Min Read'
-date: 2022-01-15
+emphasis: 'realizo'
+headline: '{emphasis} obras audiovisuais e experimentos artísticos'
+excerpt: 'trabalho com o cinema como prática sensível – entre corpo, tempo e rito.
+me interesso por obras que tensionam documento e fabulação, arquivo e presença.
+as imagens se constroem como zonas de passagem, onde o real é continuamente 
+atravessado por outras formas de percepção.'
+author: ''
+readTime: ''
+date: 2026-06-23
 featured: true
-cover: 'https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?auto=format&fit=crop&w=1600&q=70'
-tags: ['quiet', 'attention']
+cover: 'https://github.com/wildheartwitch/site/blob/main/public/cadeira%20diretora.png'
+tags: ['o que faço', 'serviços']
 ---
 
 Stillness is the practice that nobody photographs. It refuses to perform.
